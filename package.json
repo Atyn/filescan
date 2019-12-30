@@ -1,0 +1,31 @@
+{
+	"name": "filescan",
+	"version": "0.0.1",
+	"description": "Search for files",
+	"homepage": "https://github.com/Atyn/filescan#readme",
+	"main": "dist/FileScan.js",
+	"scripts": {
+		"build": "tsc",
+		"watch": "tsc --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://atyn@github.com/Atyn/filescan.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Atyn/filescan/issues"
+	},
+	"devDependencies": {
+		"@types/node": "^13.1.2",
+		"@typescript-eslint/eslint-plugin": "^2.5.0",
+		"@typescript-eslint/parser": "^2.5.0",
+		"eslint": "^6.6.0",
+		"eslint-config-prettier": "^6.4.0",
+		"eslint-plugin-prettier": "^3.1.1",
+		"eslint-plugin-react": "^7.16.0",
+		"prettier": "^1.18.2",
+		"typescript": "^3.6.4"
+	}
+}
