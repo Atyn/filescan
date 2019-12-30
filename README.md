@@ -5,7 +5,7 @@ Search for files
 # Example
 
 ```javascript
-const FileScan = require('filescan')
+const FileScan = require('path-scanner')
 const Path = require('path')
 
 const scannedPath = '../'
